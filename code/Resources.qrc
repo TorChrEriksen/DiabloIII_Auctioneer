@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/icon.png</file>
+        <file>resources/images/icon2.png</file>
+        <file>resources/images/splash.png</file>
+        <file>resources/images/splash_sized.png</file>
+        <file>resources/music/LTTP_Fanfare.wav</file>
+        <file>resources/music/LTTP_Heart.ogx</file>
+    </qresource>
+</RCC>
